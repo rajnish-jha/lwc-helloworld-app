@@ -1,0 +1,3 @@
+If we are declring any tags outside of the <template> tags
+in the LWC then we will get en error like this:
+LWC1079: Expected root tag to be template, found div

@@ -1,0 +1,13 @@
+
+.slds-text-heading_large{
+    color: orangered;
+    margin: auto;
+}
+input{
+    color: blue;
+    background-color: crimson;
+}
+.app{
+    height: 100vh;
+    background-color: white;
+}
